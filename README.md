@@ -1,7 +1,5 @@
 # 🌟 anthropic-claude-max-proxy - Simple Proxy for Claude Subscriptions
 
-## 🔗 Download Now
-[![Download](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)
 
 ## 🚀 Getting Started
 Welcome to anthropic-claude-max-proxy! This application offers a straightforward way to use Claude Pro/Max subscriptions effortlessly. No programming knowledge is needed to get started.
